@@ -2,7 +2,7 @@
 
 ## Executive Summary: 
 
-##### A Data Scientist at TikTok, is requesting your assistance with some Exploratory Data Analysis (EDA) and data visualization. The management team asked to see a Python notebook showing data structuring and cleaning, as well as any matplotlib/seaborn visualizations plotted to help us understand the data. After conducting the exploratory data analysis the key insights were: 
+##### A Data Scientist at TikTok, is requesting some Exploratory Data Analysis (EDA) and data visualization. The management team asked to see a Python notebook showing data structuring and cleaning, as well as any matplotlib/seaborn visualizations plotted to help understand the data. After conducting the exploratory data analysis the key insights were: 
 - Null Values
 - Skewed Data Distribution
 
