@@ -1,4 +1,3 @@
-
 # TikTok Claim vs. Opinion Videos EDA
 
 ## Executive Summary: 
@@ -15,7 +14,7 @@
 
 ##### In order to determined the impact the videos have on TikTok users, analysis of engagement variables (views, likes, comments) was done using histogram and boxplot visualizations.
 
-![My Visualization](desktop/claims_vs_opinions_hist.png)
+<img width="512" height="287" alt="claims_vs_opinions_hist" src="https://github.com/user-attachments/assets/6ae18eeb-f308-4214-8bc5-9dae1a91e2d6" />
 
 ## Skills: 
 ##### - Python: pandas, numpy, seaborn, matplotlib
