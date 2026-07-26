@@ -14,14 +14,14 @@
 
 ##### In order to determined the impact the videos have on TikTok users, analysis of engagement variables (views, likes, comments) was done using histogram and boxplot visualizations.
 
-![Video Comment Count](desktop/claims_vs_opinions_hist)
+![My Visualization](desktop/claims_vs_opinions_hist.png)
 
 ## Skills: 
 ##### - Python: pandas, numpy, seaborn, matplotlib
 
 ## Key Insights: 
 
-##### The exploratory data analysis there are many things to consider when crating the machine learning model. The 2 main insights were: 
+##### The exploratory data analysis there are many things to consider when creating the machine learning model. The 2 main insights were: 
 - Null Values: There were only 200 null values found in this 19,000 row data set. Since it is propotionally a small amount they will be left in the data set until further analysis is done. However, they should be considered during future modeling.
 - Skewed Data Distribution: Video like counts and view counts are both right skewed for opinions.
 
