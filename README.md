@@ -1,3 +1,4 @@
+<img width="512" height="287" alt="claims_vs_opinions_hist" src="https://github.com/user-attachments/assets/078b564e-d0e4-474b-8467-8a3f23c89202" />
 # TikTok Claim vs. Opinion Videos EDA
 
 ## Executive Summary: 
